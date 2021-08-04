@@ -1,4 +1,4 @@
-# area variables (in squre meters)
+# area variables (in square meters)
 hall = 11.25
 kit = 18.0
 liv = 20.0
